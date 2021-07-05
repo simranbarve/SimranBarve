@@ -1,8 +1,9 @@
 Hi there 👋
 
-I'm Simran, a student based in Dubai, I am currently working on my A level Computer Science project which is a website that is primarily in SQL, PHP and HTML. 
+I'm Simran, a student based in Dubai
+I am currently working on my A level Computer Science project which is a website that is primarily in SQL, PHP and HTML. 
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/simran-barve-3a0a27216
 
 <!--
 **simranbarve/SimranBarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
